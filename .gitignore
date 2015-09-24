@@ -1,0 +1,9 @@
+*.pkl
+*.json
+*.txt
+*~
+
+notes/
+pkls/
+nets*
+.ipynb_checkpoints/
